@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Frontend.
 - 💻 I'm System of Information student.
 - 📲 Interested in mobile development.
-- 
+ 
 
 <div align="center">
   <a href="https://github.com/raquelmiy">
