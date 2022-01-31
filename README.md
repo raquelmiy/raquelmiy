@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Frontend.
+- 🌱 I’m currently learning BackEnd.
 - 💻 I'm Information Systems student.
 - 📲 Interested in mobile development.
  
