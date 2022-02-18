@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning BackEnd.
 - 💻 I'm Information Systems student.
-- 📲 Interested in mobile development.
+
  
 
 <div align="center">
