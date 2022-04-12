@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning BackEnd.
+- 🌱 I’m currently studying BackEnd.
 - 💻 I'm Information Systems student.
 
  
